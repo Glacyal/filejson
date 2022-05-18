@@ -21,7 +21,7 @@ dataframe = pd.DataFrame(
 if __name__ == '__main__':
 
     path1 ='C:/workSpacepy/BigData/states/'
-    path2 ='C:/workSpacepy/BigData/states/'
+    path2 ='C:/workSpacepy/BigData/states1/'
 
     path3='C:/workSpacepy/json/filefinali/'
     files = os.listdir(path1)
